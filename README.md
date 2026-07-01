@@ -74,9 +74,12 @@ The system provides an objective and transparent assessment process, making it s
 ```
 Smart Bridge Project
 │
+├── assets
+│   ├── logo.jpeg
+│   
 ├── audio
 │   ├── input
-│   └── output
+│   
 │
 ├── database
 │   ├── connection.py
@@ -287,6 +290,9 @@ python tests/test_database.py
 - Adaptive AI Recommendations
 
 ---
+
+# Demo Video Link
+      https://drive.google.com/file/d/1mV3SJ5Ps8t0Z34WWfsXiajRBGXyvuRT8/view
 
 # 👨‍💻 Developer
 
