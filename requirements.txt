@@ -1,0 +1,15 @@
+openai-whisper
+librosa
+streamlit
+reportlab
+nltk
+torch
+sentence-transformers
+matplotlib
+soundfile
+audioread
+numpy
+pandas
+pyodbc
+python-dotenv
+google-generativeai
